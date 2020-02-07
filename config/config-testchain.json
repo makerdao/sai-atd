@@ -1,0 +1,14 @@
+{
+  "description": "Testchain deployment",
+  "tub_cap": 100000000,
+  "tub_mat": 150,
+  "tub_tax": 0,
+  "tub_fee": 5,
+  "tub_axe": 13,
+  "tub_gap": 0,
+  "tap_gap": 3,
+  "vox_way": 0,
+  "vox_how": 0,
+  "pipPrice": 150,
+  "pepPrice": 450
+}
