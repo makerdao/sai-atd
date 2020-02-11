@@ -1,6 +1,7 @@
 # Single Collateral Dai Deploy Script
 
-[abi-to-dhall](https://github.com/icetan/abi-to-dhall)
+A port of [sai-deploy-scripts](https://github.com/makerdao/sai-deploy-scripts/)
+using [abi-to-dhall](https://github.com/icetan/abi-to-dhall/).
 
 ## Run on Testchain
 
